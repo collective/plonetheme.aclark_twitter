@@ -30,6 +30,9 @@ setup(name='plonetheme.aclark_twitter',
       entry_points="""
       # -*- Entry points: -*-
 
+      [z3c.autoinclude.plugin]
+      target = plone
+
       [distutils.setup_keywords]
       paster_plugins = setuptools.dist:assert_string_list
 
