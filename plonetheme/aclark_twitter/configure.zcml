@@ -8,5 +8,7 @@
   <include package=".browser" />
   <include file="skins.zcml" />
   <include file="profiles.zcml" />
+  <browser:templateOverrides
+    directory="templates" />
 
 </configure>
