@@ -25,7 +25,6 @@ setup(name='plonetheme.aclark_twitter',
       zip_safe=False,
       install_requires=[
           'setuptools',
-          'z3c.jbot',
           # -*- Extra requirements: -*-
       ],
       entry_points="""
@@ -40,5 +39,5 @@ setup(name='plonetheme.aclark_twitter',
       [egg_info.writers]
       paster_plugins.txt = setuptools.command.egg_info:write_arg
       """,
-#      paster_plugins = ["ZopeSkel"],
+      paster_plugins = ["ZopeSkel"],
       )
