@@ -25,7 +25,6 @@ setup(name='plonetheme.aclark_twitter',
       zip_safe=False,
       install_requires=[
           'setuptools',
-          'z3c.jbot',
           # -*- Extra requirements: -*-
       ],
       entry_points="""
