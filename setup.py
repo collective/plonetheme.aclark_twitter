@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.1'
+version = '1.2'
 
 setup(name='plonetheme.aclark_twitter',
       version=version,
@@ -25,19 +25,12 @@ setup(name='plonetheme.aclark_twitter',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'z3c.jbot',
           # -*- Extra requirements: -*-
       ],
       entry_points="""
       # -*- Entry points: -*-
-
       [z3c.autoinclude.plugin]
       target = plone
-
-      [distutils.setup_keywords]
-      paster_plugins = setuptools.dist:assert_string_list
-
-      [egg_info.writers]
-      paster_plugins.txt = setuptools.command.egg_info:write_arg
       """,
-      paster_plugins = ["ZopeSkel"],
       )
