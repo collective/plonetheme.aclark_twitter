@@ -35,3 +35,7 @@ table.listing td{border:0px;}
 #portal-breadcrumbs { margin-top: 1em }
 #content-views li { list-style-type: none; display: inline }
 #contentActionMenus li { list-style-type: none; display: inline }
+#portal-siteactions li { list-style-type: none; display: inline }
+#portal-siteactions { background: transparent; text-align: center; float: right }
+#portal-footer, #portal-colophon { text-align: center }
+#portal-colophon li { list-style-type: none; display: inline }
