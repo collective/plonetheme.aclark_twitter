@@ -31,3 +31,4 @@ table.listing td{border:0px;}
 #portal-personaltools ul li { list-style-type: none; display: inline }
 #portal-personaltools-wrapper { float: right; position: relative; top: 35px; }
 #portal-searchbox { float: right; position: relative ; left: 250px;} 
+#portal-globalnav { background: transparent }
