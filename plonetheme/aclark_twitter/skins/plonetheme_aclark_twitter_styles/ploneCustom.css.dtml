@@ -4,13 +4,12 @@ a {color: #0000FF;}
 body  {width: 85%; margin: auto;}
 body {background-image: url(whiteboard-twitter.jpg);}
 body {color: black;}
-/* #portal-globalnav li { display: block; } */
 #portal-breadcrumbs{background:white;border-bottom: 1px solid #87BC44;}
 #portal-column-content,#portal-column-one{background:white;}
 #portal-column-content{font-size: 110%;}
 #portal-column-two{background:#E0FF92;border-left: 1px solid #87BC44; padding-left: 2em;}
-#portal-globalnav{white-space:normal;}
-#portal-globalnav{background:white;font-size: 150%;}
+#portal-globalnav { white-space:normal; }
+#portal-globalnav { background:white; font-size: 150%; }
 #portal-globalnav li a {color: black; border-style: solid solid none; border-color: #AAAAAA;}
 #portal-globalnav li a:hover {background-color: white;color:#0000FF;text-decoration: underline !important;border-color: #AAAAAA;}
 #portal-siteactions{background: white; padding: 1em; margin: 1em;}
@@ -28,3 +27,7 @@ table.listing td{border:0px;}
 
 /* Plone 4 fixes */
 .hiddenStructure { display: none }
+#portal-personaltools { background: transparent }
+#portal-personaltools ul li { list-style-type: none; display: inline }
+#portal-personaltools-wrapper { float: right; position: relative; top: 35px; }
+#portal-searchbox { float: right; position: relative ; left: 250px;} 
