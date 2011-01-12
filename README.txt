@@ -22,3 +22,8 @@ Add ``plonetheme.aclark_twitter`` to the ``eggs`` parameter of your
 
 Now run buildout, restart Plone, and install the theme in Site Setup ->
 Add-ons.
+
+.. Note:: 
+
+    This theme generally looks terrible; it's just for fun (and the Plone 4
+    support needs some work.)
