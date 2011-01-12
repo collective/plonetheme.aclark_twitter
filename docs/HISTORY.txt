@@ -4,7 +4,6 @@ Changelog
 1.2 (01/11/2011)
 ----------------
 
-- Add z3c.jbot dependency
 - Plone 4 compat
 
 1.1 (09/29/2009)

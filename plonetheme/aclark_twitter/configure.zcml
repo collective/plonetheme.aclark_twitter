@@ -10,8 +10,4 @@
   <include file="skins.zcml" />
   <include file="profiles.zcml" />
 
-  <include package="z3c.jbot" file="meta.zcml" />
-  <browser:templateOverrides
-    directory="templates" />
-
 </configure>
