@@ -2,9 +2,8 @@
 Introduction
 ============
 
-Complete silliness: This Plone theme makes your site look like Alex Clark's Twitter profile::
-
-    http://twitter.com/aclark4life
+Complete silliness: This Plone theme makes your site look like Alex Clark's
+Twitter profile: http://twitter.com/aclark4life.
 
 That's it.
 
