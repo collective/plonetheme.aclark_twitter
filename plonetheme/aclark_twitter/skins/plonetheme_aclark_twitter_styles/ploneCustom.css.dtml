@@ -8,8 +8,7 @@ body {color: black;}
 #portal-column-content,#portal-column-one{background:white;}
 #portal-column-content{font-size: 110%;}
 #portal-column-two{background:#E0FF92;border-left: 1px solid #87BC44; padding-left: 2em;}
-#portal-globalnav { white-space:normal; }
-#portal-globalnav { font-size: 150%; }
+#portal-globalnav { background: transparent; white-space:normal; font-size: 150% }
 #portal-globalnav li a {color: black; border-style: solid solid none; border-color: #AAAAAA;}
 #portal-globalnav li a:hover {background-color: white;color:#0000FF;text-decoration: underline !important;border-color: #AAAAAA;}
 #portal-siteactions{background: white; padding: 1em; margin: 1em;}
@@ -31,4 +30,8 @@ table.listing td{border:0px;}
 #portal-personaltools ul li { list-style-type: none; display: inline }
 #portal-personaltools-wrapper { float: right; position: relative; top: 35px; }
 #portal-searchbox { float: right; position: relative ; left: 250px;} 
-#portal-globalnav { background: transparent }
+#portal-globalnav li { list-style-type: none; display: inline }
+#portal-column-content { border-radius: 25px }
+#portal-breadcrumbs { margin-top: 1em }
+#content-views li { list-style-type: none; display: inline }
+#contentActionMenus li { list-style-type: none; display: inline }
