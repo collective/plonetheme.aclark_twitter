@@ -9,7 +9,7 @@ body {color: black;}
 #portal-column-content{font-size: 110%;}
 #portal-column-two{background:#E0FF92;border-left: 1px solid #87BC44; padding-left: 2em;}
 #portal-globalnav { white-space:normal; }
-#portal-globalnav { background:white; font-size: 150%; }
+#portal-globalnav { font-size: 150%; }
 #portal-globalnav li a {color: black; border-style: solid solid none; border-color: #AAAAAA;}
 #portal-globalnav li a:hover {background-color: white;color:#0000FF;text-decoration: underline !important;border-color: #AAAAAA;}
 #portal-siteactions{background: white; padding: 1em; margin: 1em;}
