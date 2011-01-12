@@ -1,3 +1,4 @@
+/* Original theme */
 
 a {color: #0000FF;}
 body  {width: 85%; margin: auto;}
@@ -25,4 +26,5 @@ table.listing{border:0px;}
 table.listing th{border:0px;background:#F7F7F7}
 table.listing td{border:0px;}
 
-.hiddenStructure { display: none; }
+/* Plone 4 fixes */
+.hiddenStructure { display: none }
