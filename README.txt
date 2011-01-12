@@ -15,6 +15,7 @@ Add ``plonetheme.aclark_twitter`` to the ``eggs`` parameter of your
 
     [plone]
     recipe = plone.recipe.zope2instance
+    ...
     eggs = 
         ...
         plonetheme.aclark_twitter
