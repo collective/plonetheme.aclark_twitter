@@ -2,14 +2,24 @@
 
 a {color: #0000FF;}
 body  {width: 85%; margin: auto;}
-body {background-image: url(whiteboard-twitter.jpg); background-repeat: repeat-y; background-color: black; background-position: center }
+body {
+    background-image: url(whiteboard-twitter.jpg); 
+    background-repeat: repeat-y;
+    background-color: black; 
+    background-position: 50% -65px;
+}
 #portal-breadcrumbs{background:white;border-bottom: 1px solid #87BC44;}
 #portal-column-content,#portal-column-one{background:white;}
 #portal-column-content{font-size: 110%;}
 #portal-column-two{background:#E0FF92;border-left: 1px solid #87BC44; padding-left: 2em;}
+
+/*
 #portal-globalnav { background: transparent; white-space:normal; font-size: 150% }
 #portal-globalnav li a {color: black; border-style: solid solid none; border-color: #AAAAAA;}
 #portal-globalnav li a:hover {background-color: white;color:#0000FF;text-decoration: underline !important;border-color: #AAAAAA;}
+*/
+
+
 #portal-siteactions{background: white; padding: 1em; margin: 1em;}
 #portal-siteactions li a {color:#0000FF;}
 #portal-siteactions li a:hover {background-color: white;border-color: white;color:#0000FF;text-decoration: underline !important;}
@@ -30,7 +40,7 @@ table.listing td{border:0px;}
 #portal-personaltools-wrapper { float: right; position: relative; top: 35px; }
 #portal-searchbox { float: right; position: relative ; left: 250px;} 
 #portal-globalnav li { list-style-type: none; display: inline }
-#portal-column-content { border-radius: 25px }
+#portal-column-content { border: 1px solid white ; border-radius: 25px ; background: transparent }
 #portal-breadcrumbs { margin-top: 1em }
 #content-views li { list-style-type: none; display: inline }
 #contentActionMenus li { list-style-type: none; display: inline }
@@ -38,4 +48,6 @@ table.listing td{border:0px;}
 #portal-siteactions { background: transparent; text-align: center; float: right }
 #portal-footer, #portal-colophon { text-align: center }
 #portal-colophon li { list-style-type: none; display: inline }
-#portal-logo { margin-left: 100px }
+#portal-logo { margin-left: 100px } 
+
+.searchSection { display: none }
