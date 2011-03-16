@@ -2,8 +2,7 @@
 
 a {color: #0000FF;}
 body  {width: 85%; margin: auto;}
-body {background-image: url(whiteboard-twitter.jpg);}
-body {color: black;}
+body {background-image: url(whiteboard-twitter.jpg); background-repeat: repeat-y; background-color: black; background-position: center }
 #portal-breadcrumbs{background:white;border-bottom: 1px solid #87BC44;}
 #portal-column-content,#portal-column-one{background:white;}
 #portal-column-content{font-size: 110%;}
@@ -39,3 +38,4 @@ table.listing td{border:0px;}
 #portal-siteactions { background: transparent; text-align: center; float: right }
 #portal-footer, #portal-colophon { text-align: center }
 #portal-colophon li { list-style-type: none; display: inline }
+#portal-logo { margin-left: 100px }
