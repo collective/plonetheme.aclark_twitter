@@ -10,3 +10,6 @@ Install with Plock::
 
     $ pip install plock
     $ plock -a plonetheme.aclark_twitter .
+
+
+.. image:: screenshot.png
