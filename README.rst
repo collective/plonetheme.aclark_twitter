@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This Plone theme is inspired by Alex Clark's old Twitter Profile.
+This Plone theme is inspired by `Alex Clark's Twitter Profile <http://twitter.com/aclark4life>`_
 
 Installation
 ------------
