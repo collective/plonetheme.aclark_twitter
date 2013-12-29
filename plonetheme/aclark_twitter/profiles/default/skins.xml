@@ -12,7 +12,7 @@
     meta_type="Filesystem Directory View"
     directory="plonetheme.aclark_twitter:skins/plonetheme_aclark_twitter_styles"/>
 
- <skin-path name="aclark_twitter" based-on="Plone Default">
+ <skin-path name="aclark_twitter" based-on="Sunburst Theme">
   <layer name="plonetheme_aclark_twitter_custom_images"
      insert-after="custom"/>
   <layer name="plonetheme_aclark_twitter_custom_templates"
