@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This Plone theme makes your site look like Alex Clark's old Twitter profile.
+This Plone theme is inspired by Alex Clark's old Twitter Profile.
 
 Installation
 ------------
