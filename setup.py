@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.2'
+version = '1.3'
 
 setup(name='plonetheme.aclark_twitter',
       version=version,
       description="Complete silliness: make your Plone site look like Alex Clark's Twitter profile.",
       long_description=open("README.rst").read() + "\n" +
-                       open("CHANGES.rst")).read(),
+                       open("CHANGES.rst").read(),
       # Get more strings from http://www.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
         "Framework :: Plone",
@@ -17,7 +17,7 @@ setup(name='plonetheme.aclark_twitter',
       keywords='web zope plone theme',
       author='Alex Clark',
       author_email='aclark@aclark.net',
-      url='https://svn.plone.org/svn/collective/plonetheme.aclark_twitter/',
+      url='https://github.com/collective/plonetheme.aclark_twitter/',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['plonetheme'],
