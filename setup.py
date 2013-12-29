@@ -6,8 +6,8 @@ version = '1.2'
 setup(name='plonetheme.aclark_twitter',
       version=version,
       description="Complete silliness: make your Plone site look like Alex Clark's Twitter profile.",
-      long_description=open("README.txt").read() + "\n" +
-                       open(os.path.join("docs", "HISTORY.txt")).read(),
+      long_description=open("README.rst").read() + "\n" +
+                       open("CHANGES.rst")).read(),
       # Get more strings from http://www.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
         "Framework :: Plone",
