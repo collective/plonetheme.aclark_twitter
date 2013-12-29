@@ -12,6 +12,7 @@ setup(name='plonetheme.aclark_twitter',
       classifiers=[
         "Framework :: Plone",
         "Programming Language :: Python",
+        "Programming Language :: Python :: 2.7",
         "Topic :: Software Development :: Libraries :: Python Modules",
         ],
       keywords='web zope plone theme',
@@ -32,4 +33,5 @@ setup(name='plonetheme.aclark_twitter',
       [z3c.autoinclude.plugin]
       target = plone
       """,
+      test_suite='plonetheme.aclark_twitter.tests.test_suite',
       )
