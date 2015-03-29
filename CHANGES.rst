@@ -1,6 +1,11 @@
 Changelog
 =========
 
+1.4 (unreleased)
+----------------
+
+- Update information about this package [macagua]
+
 1.3 (12/29/2013)
 ----------------
 
