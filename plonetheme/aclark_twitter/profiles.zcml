@@ -5,9 +5,9 @@
 
   <genericsetup:registerProfile
       name="default"
-      title="aclark_twitter"
+      title="plonetheme.aclark_twitter"
       directory="profiles/default"
-      description='Extension profile for the "aclark_twitter" Plone theme.'
+      description='Installs the "aclark_twitter" Plone skins theme.'
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
