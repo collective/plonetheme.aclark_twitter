@@ -11,4 +11,12 @@
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
+  <genericsetup:registerProfile
+      name="uninstall"
+      title="plonetheme.aclark_twitter: Uninstall profile for Plone 4 Diazo Theme"
+      directory="profiles/uninstall"
+      description='Uninstalls the "aclark_twitter" Plone skins theme.'
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
 </configure>
