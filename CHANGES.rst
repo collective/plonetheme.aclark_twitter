@@ -4,6 +4,14 @@ Changelog
 1.4 (unreleased)
 ----------------
 
+- Added improvements about README file [macagua]
+
+- Added a GenericSetup Uninstall profile [macagua]
+
+- Updated GenericSetup default profile [macagua]
+
+- Added more strings classifiers items for this package [macagua]
+
 - Update information about this package [macagua]
 
 1.3 (12/29/2013)
