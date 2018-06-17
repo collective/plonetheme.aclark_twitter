@@ -4,6 +4,8 @@ Changelog
 1.4 (unreleased)
 ----------------
 
+- Changed the keywords for setuptools metadata classifier [macagua]
+
 - Added the license for setuptools metadata classifier [macagua]
 
 - Added improvements about README file [macagua]
