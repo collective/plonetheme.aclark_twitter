@@ -87,6 +87,7 @@ Credits
 -------
 
 - Alex Clark (aclark at aclark dot net).
+- Leonardo J. Caballero G. (leonardocaballero at gmail dot com).
 
 .. _`Alex Clark's Twitter Profile`: https://twitter.com/aclark4life
 .. _`ACLARK.NET, LLC`: http://www.aclark.net/
